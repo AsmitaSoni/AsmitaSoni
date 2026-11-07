@@ -12,9 +12,7 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=AsmitaSoni&style=flat-square&color=A855F7&label=PROFILE+VIEWS" />
-
-  <br/><br/>
+ <br/>
 
   <a href="https://github.com/AsmitaSoni">
     <img src="https://img.shields.io/badge/GitHub-AsmitaSoni-161B22?style=for-the-badge&logo=github&logoColor=C084FC"/>
