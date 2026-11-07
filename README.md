@@ -8,7 +8,7 @@
     <i>Turning ideas into intelligent applications.</i>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Exploring+Generative+AI;Building+Something+Meaningful;Code.+Create.+Innovate." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Something+Meaningful;Code.+Create.+Innovate." />
 
   <br/>
 
@@ -58,30 +58,11 @@
 
 </div>
 
----
 
-<h3 align="center">╭─ GITHUB ANALYTICS ─╮</h3>
 
-<div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AsmitaSoni&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E5E7EB&ring_color=C084FC" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmitaSoni&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB&langs_count=8" />
-
-</div>
 
 ---
-
-<h3 align="center">╭─ CONTRIBUTION ACTIVITY ─╮</h3>
-
-<div align="center">
-
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AsmitaSoni&bg_color=0D1117&color=C084FC&line=A855F7&point=E9D5FF&area=true&area_color=6B21A8&hide_border=true&custom_title=My%20Coding%20Journey" />
-
-</div>
-
----
-
 <h3 align="center">╭─ LET'S CONNECT ─╮</h3>
 
 <div align="center">
